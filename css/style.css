@@ -1,0 +1,9 @@
+header {
+    background-color: navy;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
